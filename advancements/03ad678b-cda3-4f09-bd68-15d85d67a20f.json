@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2021-12-14 07:23:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-08 18:49:36 +0300"
@@ -80,6 +86,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2021-12-04 10:56:46 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-12-14 07:22:47 +0300"
     },
     "done": true
   },
@@ -269,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2021-12-14 07:23:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2021-12-08 21:02:24 +0300"
@@ -284,6 +302,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2021-12-04 11:08:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2021-12-14 06:24:00 +0300"
     },
     "done": true
   },
@@ -533,6 +557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2021-12-14 07:23:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-12-04 10:58:53 +0300"
@@ -547,6 +577,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "minecraft:sheep": "2021-12-12 20:54:57 +0300",
+      "minecraft:cow": "2021-12-13 12:11:01 +0300",
       "minecraft:chicken": "2021-12-08 20:05:28 +0300"
     },
     "done": false
@@ -596,6 +628,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2021-12-08 19:02:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2021-12-14 07:23:08 +0300"
     },
     "done": true
   },
@@ -791,6 +829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_the_recipe": "2021-12-14 06:24:00 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2021-12-08 20:47:24 +0300"
@@ -883,6 +927,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2021-12-08 19:02:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-12-14 07:22:47 +0300"
     },
     "done": true
   },
@@ -1228,6 +1278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2021-12-12 21:53:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2021-12-04 11:08:18 +0300"
@@ -1516,6 +1572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2021-12-14 07:23:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-12-08 18:49:36 +0300"
@@ -1725,6 +1787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2021-12-14 07:23:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2021-12-08 18:38:03 +0300"
@@ -1785,6 +1853,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2021-12-14 07:38:47 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2021-12-04 10:42:17 +0300"
@@ -1796,6 +1870,12 @@
       "has_stone": "2021-12-08 20:00:19 +0300"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-12-14 07:22:48 +0300"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cookie": {
     "criteria": {
